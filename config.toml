@@ -20,7 +20,6 @@ enableEmoji = true
   mathJaxInitialize = "{ \"chtml\": { \"displayAlign\": \"left\" } }"
   description = "Goerge's Homepage"
   author.name = "George"
-  author = "George"
   collapsibleMenu = false
   themeVariant = [ "relearn-light", "relearn-dark", "learn", "neon", "blue", "green", "red" ]
 
