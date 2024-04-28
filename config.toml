@@ -4,7 +4,7 @@ relativeURLs = true
 uglyURLs = false     # true -> basic/index.html -> basic.html
 
 languageCode = 'en-us'
-title = "George The Awesome Coder"
+title = "George's Blog"
 
 theme = 'relearn'
 
@@ -18,7 +18,7 @@ enableEmoji = true
 [params]
   editURL = "https://github.com/George-LJH/George-website/edit/main/content/"
   mathJaxInitialize = "{ \"chtml\": { \"displayAlign\": \"left\" } }"
-  description = "Goerge's Homepage"
+  description = "George The Awesome Coder"
   author.name = "George"
   collapsibleMenu = false
   themeVariant = [ "relearn-light", "relearn-dark", "learn", "neon", "blue", "green", "red" ]
@@ -49,7 +49,7 @@ page = ["HTML", "RSS", "PRINT"]
 # your project
 [Languages]
   [Languages.en]
-    title = "Hugo Relearn Template"
+    title = "Coding"
     weight = 1
     languageName = "English"
     landingPageName = "<i class='fas fa-home'></i> George's Home"
