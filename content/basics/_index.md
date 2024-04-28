@@ -1,16 +1,17 @@
 +++
 archetype = "chapter"
-title = "Basics"
+title = "Makecode Arcae"
 tags = ["theme"]
 weight = 0
 +++
 
-Lorem Ipsum.
+I like to code using Makecode Arcade, and here are several of my games.
 
-```math
-$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
-```
+## Geo Dash V3
+![image](https://github.com/George-LJH/George-website/assets/155213581/e0bfc77d-53e4-4e25-847d-c3cb2feeb867)
+[Link to Geo Dash V3](https://george-ljh.github.io/geo-dash-v3/)
 
-```math
-$$\ce{Hg^2+ ->[I-] HgI2 ->[I-] [Hg^{II}I4]^2-}$$
-```
+##Backrooms
+![image](https://github.com/George-LJH/George-website/assets/155213581/c37247fd-613b-44e2-81f2-7e8e5957b456)
+
+[Link to Backrooms](https://george-ljh.github.io/BACKROOMS/)
