@@ -1,5 +1,5 @@
 +++
-archetype = "chapter"
+chapter = false
 title = "Games"
 tags = ["theme"]
 weight = 0
