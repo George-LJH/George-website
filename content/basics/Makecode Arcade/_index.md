@@ -1,5 +1,5 @@
 +++
-archetype = "chapter"
+chapter = false
 title = "Makecode Arcade"
 tags = ["theme"]
 weight = 0
