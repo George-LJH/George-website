@@ -26,9 +26,12 @@ while again:
 ```
 
 AI Bot
-{{%/* notice warning */%}}
-You need PIP installed to use the AI BOT. If you can't, use the other AI Bot provided after this.
-{{%/* /notice */%}}
+
+{{% notice warning %}}
+A **warning** disclaimer
+You need **PIP** installed to use this AI  Bot. If you cannot download it, use the AI Bot below this one.
+{{% /notice %}}
+
 ```python
 from googlesearch import search
 print("AI: Hello. How may I help you today? You can say simple commands like:")
