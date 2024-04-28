@@ -4,7 +4,7 @@ relativeURLs = true
 uglyURLs = false     # true -> basic/index.html -> basic.html
 
 languageCode = 'en-us'
-title = 'George's The Awesome Coder'
+title = "George The Awesome Coder"
 
 theme = 'relearn'
 
