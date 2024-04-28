@@ -1,10 +1,10 @@
-baseURL = 'https://sosiristseng.github.io/template-hugo-relearn/'
+baseURL = 'https://s125371.66836683.xyz/'
 canonifyURLs = true
 relativeURLs = true
 uglyURLs = false     # true -> basic/index.html -> basic.html
 
 languageCode = 'en-us'
-title = 'Hugo Relearn Theme Template'
+title = 'George's The Awesome Coder'
 
 theme = 'relearn'
 
@@ -16,9 +16,12 @@ enableGitInfo = true
 enableEmoji = true
 
 [params]
+  editURL = "https://github.com/George-LJH/George-website/edit/main/content/"
   mathJaxInitialize = "{ \"chtml\": { \"displayAlign\": \"left\" } }"
-  description = "Template for Hugo Relearn Theme"
-  author.name = "Wen-Wei Tseng"
+  description = "Goerge's Homepage"
+  author.name = "George"
+  author = "George"
+  collapsibleMenu = false
   themeVariant = [ "relearn-light", "relearn-dark", "learn", "neon", "blue", "green", "red" ]
 
 [markup]
