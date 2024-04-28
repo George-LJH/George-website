@@ -50,23 +50,18 @@ page = ["HTML", "RSS", "PRINT"]
     title = "Hugo Relearn Template"
     weight = 1
     languageName = "English"
-    landingPageName = "<i class='fas fa-home'></i> Home"
+    landingPageName = "<i class='fas fa-home'></i> George's Home"
 
   [[Languages.en.menu.shortcuts]]
-    name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
+    name = "<i class='fab fa-fw fa-github'></i> George's repo"
     identifier = "ds"
-    url = "https://github.com/sosiristseng/template-hugo-relearn"
+    url = "https://github.com/George-LJH/George-website"
     weight = 10
 
   [[Languages.en.menu.shortcuts]]
-    name = "<i class='fas fa-fw fa-camera'></i> Showcases"
-    url = "more/showcase/"
-    weight = 11
-
-  [[Languages.en.menu.shortcuts]]
-    name = "<i class='fas fa-fw fa-bookmark'></i> Hugo Documentation"
+    name = "<i class='fas fa-fw fa-bookmark'></i> References Repo"
     identifier = "hugodoc"
-    url = "https://gohugo.io/"
+    url = "https://github.com/readyhe/hugo-theme-relearn"
     weight = 20
 
   [[Languages.en.menu.shortcuts]]
