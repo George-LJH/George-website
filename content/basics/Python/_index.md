@@ -1,5 +1,5 @@
 +++
-archetype = "chapter"
+chapter = false
 title = "Python"
 tags = ["theme"]
 weight = 0
