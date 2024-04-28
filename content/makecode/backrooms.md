@@ -16,4 +16,4 @@ Backrooms
 
 Backrooms example2
 [Link to Backrooms](https://george-ljh.github.io/BACKROOMS/)
-![image](images/mylogo.svg)
+![image](/images/mylogo.svg)
