@@ -1,4 +1,4 @@
-baseURL = 'https://s125371.66836683.xyz/'
+baseURL = 'https://george.66836683.xyz/'
 canonifyURLs = true
 relativeURLs = true
 uglyURLs = false     # true -> basic/index.html -> basic.html
