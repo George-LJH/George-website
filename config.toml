@@ -74,17 +74,17 @@ page = ["HTML", "RSS", "PRINT"]
     weight = 53
 
   [[Languages.en.menu.shortcuts]]
-    name = "<i class='fa-solid fa-gamepad'></i>Geo Dash V3"
+    name = "<i class='fa-solid fa-gamepad'></i> Geo Dash V3"
     url = "https://geo-dash-v3.66836683.xyz/"
     weight = 11
 
   [[Languages.en.menu.shortcuts]]
-    name = "<i class='fa-solid fa-ghost'></i>Backrooms"
+    name = "<i class='fa-solid fa-ghost'></i> Backrooms"
     url = "https://backrooms.66836683.xyz/"
     weight = 11
     
   [[Languages.en.menu.shortcuts]]
-    name = "<i class='fa-solid fa-gamepad'></i>Big Tower Tiny Square"
+    name = "<i class='fa-solid fa-gamepad'></i> Big Tower Tiny Square"
     url = "https://big-tower.66836683.xyz/"
     weight = 11
 
