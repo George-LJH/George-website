@@ -1,6 +1,6 @@
 +++
-chapter = true
-title = "Python"
+chapter = false
+title = "Step 1"
 tags = ["theme"]
 weight = 0
 +++
