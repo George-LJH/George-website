@@ -1,7 +1,7 @@
 +++
 chapter = true
 title = "Step 2"
-tags = ["theme"]
+tags = ["dice simulator tutorial"]
 weight = 0
 +++
 
