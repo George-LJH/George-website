@@ -310,3 +310,14 @@ while True:
 ```
 
 That's all!
+
+### One
+{{< youtube 0RKpf3rK57I >}}
+
+### Two
+{{< youtube Yg_kfQxKlXo >}}
+
+### Three
+{{< youtube id="Yg_kfQxKlXo" loading=lazy start=30 >}}
+
+
