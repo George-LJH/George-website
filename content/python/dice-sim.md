@@ -1,12 +1,12 @@
 +++
 chapter = false
 title = "Dice Rolling Simulator"
-tags = ["theme"]
+tags = ["Coding","Python"]
 weight = 0
 +++
 
 
-# Dice Rolling Simulator
+## Dice Rolling Simulator
 ```python
 import random
 again = True
