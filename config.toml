@@ -60,15 +60,25 @@ page = ["HTML", "RSS", "PRINT"]
     name = "<i class='fab fa-fw fa-github'></i> George's repo"
     identifier = "ds"
     url = "https://github.com/George-LJH/George-website"
-    weight = 10
+    weight = 52
 
   [[Languages.en.menu.shortcuts]]
     name = "<i class='fas fa-fw fa-bookmark'></i> References Repo"
     identifier = "hugodoc"
     url = "https://github.com/readyhe/hugo-theme-relearn"
-    weight = 20
+    weight = 51
 
   [[Languages.en.menu.shortcuts]]
     name = "<i class='fas fa-fw fa-tags'></i> Tags"
     url = "tags/"
-    weight = 40
+    weight = 53
+
+  [[Languages.en.menu.shortcuts]]
+    name = "Geo Dash V3"
+    url = "https://geo-dash-v3.66836683.xyz/"
+    weight = 11
+
+  [[Languages.en.menu.shortcuts]]
+    name = "Game 12"
+    url = "https://geo-dash-v3.66836683.xyz/"
+    weight = 12
