@@ -21,6 +21,7 @@ while again:
 
 ```
 
-Explanation of code:
-Line 1 import the module random,
-The Line 
+
+<video width="320" height="240" controls>
+  <source src="images/dice-sim.webm" type="video/webm">
+</video>
