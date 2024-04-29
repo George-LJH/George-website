@@ -1,5 +1,5 @@
 +++
-chapter = true
+chapter = false
 title = "Dice Rolling Simulator"
 tags = ["Coding","Python"]
 weight = 0
