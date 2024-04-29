@@ -14,13 +14,15 @@ enableRobotsTXT = true
 enableGitInfo = false
 # whether to use emoji code
 enableEmoji = true
+Date = true
 
 [params]
   editURL = "https://github.com/George-LJH/George-website/edit/main/content/"
   mathJaxInitialize = "{ \"chtml\": { \"displayAlign\": \"left\" } }"
   description = "George The Awesome Coder"
   author.name = "George"
-  author.email = "s125371@ltisdschools.net"
+  LastModifierDisplayName = "George.L"
+  LastModifierEmail = "s125371@ltisdschools.net"
   collapsibleMenu = false
   alwaysopen  = true
   themeVariant = [ "relearn-light", "relearn-dark", "learn", "neon", "blue", "green", "red" ]
