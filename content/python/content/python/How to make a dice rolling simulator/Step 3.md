@@ -10,7 +10,7 @@ weight = 0
 Type in while again:
 
 {{% notice warning %}}
-Make sure you **type :**!
+Make sure you **type the : sign**!
 {{% /notice %}}
 
 
