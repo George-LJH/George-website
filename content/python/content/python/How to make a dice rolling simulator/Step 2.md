@@ -1,5 +1,5 @@
 +++
-chapter = true
+chapter = false
 title = "Step 2"
 tags = ["dice simulator tutorial"]
 weight = 0
