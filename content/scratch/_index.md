@@ -18,8 +18,6 @@ Lemonoid is a game where you have to shoot lemons and not let them touch you.
 
 ## [Space Bar Clicker](https://scratch.mit.edu/projects/941956664)
 
-{{< iframe https://example.com/ >}}
-<iframe src="https://example.com/"></iframe>
 
 
 
