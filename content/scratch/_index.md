@@ -17,14 +17,5 @@ Lemonoid is a game where you have to shoot lemons and not let them touch you.
 ![image](https://github.com/George-LJH/George-website/assets/155213581/6042141e-1ef6-48d9-b44f-e9fff12c483e)
 
 ## [Space Bar Clicker](https://scratch.mit.edu/projects/941956664)
-
-
-
-
-
-
-
-
-
-
-
+Spacebar clicker is a game where you have to click the spacebar on your keyboard.
+![image](https://github.com/George-LJH/George-website/assets/155213581/6f30d2d5-512b-4822-b41c-09f372a2b3d3)
